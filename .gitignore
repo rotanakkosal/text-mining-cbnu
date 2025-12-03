@@ -1,0 +1,21 @@
+# Models
+model/
+
+# Outputs
+outputs/
+
+# Data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE configuration
+.vscode/
+.idea/
