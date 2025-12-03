@@ -1,11 +1,11 @@
 # Models
-model/
+# model/
 
 # Outputs
-outputs/
+# outputs/
 
 # Data
-data/
+# data/
 
 # Python cache
 __pycache__/
