@@ -59,9 +59,10 @@ def predict_sentiment(review_text):
 if __name__ == "__main__":
     # --- Example Usage ---
     reviews_to_test = [
-        # "The battery life on this phone is terrible, it barely lasts a few hours.",
-        # "I love the camera! The pictures are so clear and vibrant.",
-        "The phone is better than the previous one."
+        "The battery life on this phone is not good, it barely lasts a few hours.",
+        "I love the camera! The pictures are so clear and vibrant.",
+        "The phone is better than the previous one.",
+        "Does not support newest or newer iOS. I did not know that when p[purchasing as a replacement for my wife. We are not apple users (this was just the cheapest). She hates it, thus I hate it..."
     ]
     
     for i, review in enumerate(reviews_to_test, 1):

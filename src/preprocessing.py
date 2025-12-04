@@ -6,11 +6,12 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from scipy.sparse import hstack
 
+# 1. CLEANING TEXT ( remove punctuation )
 def clean_text(text):
     """Basic text normalization."""
     if not isinstance(text, str): return ""
     text = text.lower()
-    text = re.sub(r'[^\w\s]', '', text) # Remove punctuation
+    text = re.sub(r'[^\w\s]', '', text) 
     return text
 
 def process_text_data(df):
