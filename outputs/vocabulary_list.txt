@@ -1,0 +1,1000 @@
+   1. 10
+   2. 100
+   3. 12
+   4. 15
+   5. 16gb
+   6. 20
+   7. 200
+   8. 30
+   9. 32gb
+  10. 3g
+  11. 40
+  12. 4g
+  13. 4g lte
+  14. 4s
+  15. 50
+  16. 55
+  17. 5s
+  18. 60
+  19. 64gb
+  20. 6s
+  21. able
+  22. absolutely
+  23. absolutely love
+  24. access
+  25. accessories
+  26. account
+  27. activate
+  28. activated
+  29. actually
+  30. adapter
+  31. add
+  32. added
+  33. advertised
+  34. affordable
+  35. ago
+  36. allow
+  37. amazing
+  38. amazing phone
+  39. amazon
+  40. android
+  41. android phone
+  42. annoying
+  43. answer
+  44. anymore
+  45. app
+  46. apple
+  47. applications
+  48. apps
+  49. area
+  50. arent
+  51. arrived
+  52. arrived time
+  53. ask
+  54. asked
+  55. asus
+  56. att
+  57. audio
+  58. available
+  59. average
+  60. away
+  61. awesome
+  62. awesome phone
+  63. backup
+  64. bad
+  65. band
+  66. barely
+  67. based
+  68. basic
+  69. basically
+  70. battery
+  71. battery lasts
+  72. battery life
+  73. beat
+  74. beautiful
+  75. believe
+  76. best
+  77. best phone
+  78. better
+  79. bien
+  80. big
+  81. bigger
+  82. bit
+  83. black
+  84. blackberry
+  85. bloatware
+  86. blu
+  87. blu phone
+  88. blue
+  89. bluetooth
+  90. bought
+  91. bought phone
+  92. box
+  93. brand
+  94. brand new
+  95. break
+  96. bright
+  97. brightness
+  98. broke
+  99. broken
+ 100. brought
+ 101. browser
+ 102. browsing
+ 103. bucks
+ 104. budget
+ 105. bueno
+ 106. build
+ 107. built
+ 108. business
+ 109. button
+ 110. buttons
+ 111. buy
+ 112. buy phone
+ 113. buying
+ 114. buying phone
+ 115. cable
+ 116. called
+ 117. calling
+ 118. calls
+ 119. came
+ 120. camera
+ 121. cameras
+ 122. car
+ 123. card
+ 124. card slot
+ 125. cards
+ 126. care
+ 127. carrier
+ 128. carriers
+ 129. carry
+ 130. case
+ 131. cases
+ 132. cause
+ 133. cell
+ 134. cell phone
+ 135. cellphone
+ 136. cellular
+ 137. change
+ 138. changed
+ 139. charge
+ 140. charged
+ 141. charger
+ 142. charges
+ 143. charging
+ 144. cheap
+ 145. cheaper
+ 146. check
+ 147. chinese
+ 148. choice
+ 149. christmas
+ 150. clean
+ 151. clear
+ 152. clearly
+ 153. close
+ 154. code
+ 155. color
+ 156. colors
+ 157. come
+ 158. comes
+ 159. comfortable
+ 160. coming
+ 161. compact
+ 162. company
+ 163. compared
+ 164. compatible
+ 165. complain
+ 166. complaint
+ 167. complaints
+ 168. complete
+ 169. completely
+ 170. computer
+ 171. condition
+ 172. connect
+ 173. connected
+ 174. connection
+ 175. considering
+ 176. constantly
+ 177. contact
+ 178. contacted
+ 179. contacts
+ 180. contract
+ 181. control
+ 182. cool
+ 183. correct
+ 184. cost
+ 185. country
+ 186. couple
+ 187. course
+ 188. cover
+ 189. cracked
+ 190. crap
+ 191. customer
+ 192. customer service
+ 193. daily
+ 194. damage
+ 195. damaged
+ 196. data
+ 197. date
+ 198. daughter
+ 199. day
+ 200. days
+ 201. dead
+ 202. deal
+ 203. decent
+ 204. decided
+ 205. defective
+ 206. definitely
+ 207. delivered
+ 208. delivery
+ 209. described
+ 210. description
+ 211. design
+ 212. despite
+ 213. device
+ 214. devices
+ 215. did
+ 216. did work
+ 217. didnt
+ 218. didnt work
+ 219. died
+ 220. difference
+ 221. different
+ 222. difficult
+ 223. disappointed
+ 224. display
+ 225. does
+ 226. does work
+ 227. doesnt
+ 228. doesnt work
+ 229. doing
+ 230. dollars
+ 231. dont
+ 232. dont buy
+ 233. dont know
+ 234. dont like
+ 235. dont want
+ 236. download
+ 237. downloaded
+ 238. drop
+ 239. dropped
+ 240. dual
+ 241. dual sim
+ 242. durable
+ 243. ear
+ 244. earlier
+ 245. early
+ 246. easier
+ 247. easily
+ 248. easy
+ 249. easy use
+ 250. edge
+ 251. el
+ 252. email
+ 253. emails
+ 254. en
+ 255. end
+ 256. ended
+ 257. english
+ 258. enjoy
+ 259. es
+ 260. especially
+ 261. exactly
+ 262. excelent
+ 263. excelente
+ 264. excellent
+ 265. excellent phone
+ 266. excellent product
+ 267. expect
+ 268. expectations
+ 269. expected
+ 270. expecting
+ 271. expensive
+ 272. experience
+ 273. extra
+ 274. extremely
+ 275. face
+ 276. facebook
+ 277. facing
+ 278. fact
+ 279. factory
+ 280. fairly
+ 281. fake
+ 282. family
+ 283. fan
+ 284. fantastic
+ 285. far
+ 286. far good
+ 287. fast
+ 288. fast shipping
+ 289. faster
+ 290. favorite
+ 291. feature
+ 292. features
+ 293. feel
+ 294. feels
+ 295. figure
+ 296. finally
+ 297. fine
+ 298. finger
+ 299. fingerprint
+ 300. fit
+ 301. fits
+ 302. fix
+ 303. fixed
+ 304. flagship
+ 305. flash
+ 306. flip
+ 307. free
+ 308. freezes
+ 309. friend
+ 310. friendly
+ 311. friends
+ 312. fully
+ 313. fun
+ 314. function
+ 315. functional
+ 316. functionality
+ 317. functions
+ 318. future
+ 319. g3
+ 320. galaxy
+ 321. games
+ 322. gave
+ 323. gb
+ 324. gets
+ 325. getting
+ 326. gift
+ 327. given
+ 328. gives
+ 329. giving
+ 330. glad
+ 331. glass
+ 332. goes
+ 333. going
+ 334. gold
+ 335. gone
+ 336. good
+ 337. good battery
+ 338. good condition
+ 339. good phone
+ 340. good price
+ 341. good product
+ 342. good quality
+ 343. google
+ 344. got
+ 345. got phone
+ 346. gotten
+ 347. gps
+ 348. great
+ 349. great buy
+ 350. great camera
+ 351. great condition
+ 352. great deal
+ 353. great phone
+ 354. great price
+ 355. great product
+ 356. gsm
+ 357. guess
+ 358. half
+ 359. hand
+ 360. hands
+ 361. happened
+ 362. happy
+ 363. happy phone
+ 364. happy purchase
+ 365. hard
+ 366. hardware
+ 367. hate
+ 368. havent
+ 369. having
+ 370. hd
+ 371. headphones
+ 372. hear
+ 373. heard
+ 374. heavy
+ 375. help
+ 376. high
+ 377. higher
+ 378. highly
+ 379. highly recommend
+ 380. hit
+ 381. hold
+ 382. home
+ 383. honestly
+ 384. hope
+ 385. horrible
+ 386. hot
+ 387. hour
+ 388. hours
+ 389. htc
+ 390. huge
+ 391. husband
+ 392. id
+ 393. idea
+ 394. ill
+ 395. im
+ 396. im happy
+ 397. im sure
+ 398. immediately
+ 399. important
+ 400. impressed
+ 401. inch
+ 402. included
+ 403. including
+ 404. information
+ 405. inside
+ 406. install
+ 407. installed
+ 408. instead
+ 409. instructions
+ 410. interface
+ 411. internal
+ 412. international
+ 413. international version
+ 414. internet
+ 415. ios
+ 416. iphone
+ 417. iphones
+ 418. isnt
+ 419. issue
+ 420. issues
+ 421. item
+ 422. ive
+ 423. ive phone
+ 424. job
+ 425. junk
+ 426. just
+ 427. just fine
+ 428. just got
+ 429. just like
+ 430. keeps
+ 431. kept
+ 432. key
+ 433. keyboard
+ 434. keys
+ 435. kids
+ 436. kind
+ 437. knew
+ 438. know
+ 439. la
+ 440. lack
+ 441. lag
+ 442. language
+ 443. large
+ 444. larger
+ 445. lasted
+ 446. lasts
+ 447. later
+ 448. latest
+ 449. leave
+ 450. left
+ 451. let
+ 452. lg
+ 453. life
+ 454. light
+ 455. like
+ 456. like new
+ 457. like phone
+ 458. liked
+ 459. likes
+ 460. limited
+ 461. line
+ 462. listed
+ 463. little
+ 464. live
+ 465. lo
+ 466. load
+ 467. local
+ 468. lock
+ 469. locked
+ 470. lollipop
+ 471. long
+ 472. long time
+ 473. longer
+ 474. look
+ 475. looked
+ 476. looking
+ 477. looks
+ 478. looks great
+ 479. looks like
+ 480. lost
+ 481. lot
+ 482. lots
+ 483. loud
+ 484. love
+ 485. love love
+ 486. love new
+ 487. love phone
+ 488. loved
+ 489. loves
+ 490. loving
+ 491. low
+ 492. lte
+ 493. lumia
+ 494. mail
+ 495. main
+ 496. major
+ 497. make
+ 498. make sure
+ 499. makes
+ 500. making
+ 501. manual
+ 502. maps
+ 503. market
+ 504. matter
+ 505. maybe
+ 506. mean
+ 507. means
+ 508. media
+ 509. memory
+ 510. memory card
+ 511. mention
+ 512. menu
+ 513. message
+ 514. messages
+ 515. met
+ 516. micro
+ 517. micro sd
+ 518. microsd
+ 519. mind
+ 520. mini
+ 521. minor
+ 522. minutes
+ 523. miss
+ 524. missing
+ 525. mobile
+ 526. mode
+ 527. model
+ 528. mom
+ 529. money
+ 530. month
+ 531. months
+ 532. moto
+ 533. motorola
+ 534. multiple
+ 535. music
+ 536. muy
+ 537. need
+ 538. needed
+ 539. needs
+ 540. negative
+ 541. network
+ 542. new
+ 543. new phone
+ 544. nexus
+ 545. nice
+ 546. nice phone
+ 547. night
+ 548. nokia
+ 549. normal
+ 550. note
+ 551. notice
+ 552. noticed
+ 553. number
+ 554. numbers
+ 555. offer
+ 556. ok
+ 557. okay
+ 558. old
+ 559. old phone
+ 560. older
+ 561. ones
+ 562. online
+ 563. open
+ 564. opened
+ 565. operating
+ 566. opinion
+ 567. option
+ 568. options
+ 569. order
+ 570. ordered
+ 571. ordered phone
+ 572. original
+ 573. os
+ 574. otterbox
+ 575. outside
+ 576. overall
+ 577. owned
+ 578. package
+ 579. packaging
+ 580. page
+ 581. paid
+ 582. para
+ 583. past
+ 584. pay
+ 585. paying
+ 586. people
+ 587. perfect
+ 588. perfect condition
+ 589. perfectly
+ 590. performance
+ 591. person
+ 592. personal
+ 593. phone
+ 594. phone amazing
+ 595. phone arrived
+ 596. phone awesome
+ 597. phone battery
+ 598. phone best
+ 599. phone better
+ 600. phone bought
+ 601. phone calls
+ 602. phone came
+ 603. phone camera
+ 604. phone did
+ 605. phone didnt
+ 606. phone does
+ 607. phone doesnt
+ 608. phone dont
+ 609. phone easy
+ 610. phone excellent
+ 611. phone far
+ 612. phone fast
+ 613. phone good
+ 614. phone got
+ 615. phone great
+ 616. phone im
+ 617. phone ive
+ 618. phone just
+ 619. phone like
+ 620. phone looks
+ 621. phone love
+ 622. phone months
+ 623. phone new
+ 624. phone nice
+ 625. phone perfect
+ 626. phone phone
+ 627. phone price
+ 628. phone really
+ 629. phone received
+ 630. phone screen
+ 631. phone unlocked
+ 632. phone use
+ 633. phone used
+ 634. phone work
+ 635. phone worked
+ 636. phone working
+ 637. phone works
+ 638. phones
+ 639. photo
+ 640. photos
+ 641. pics
+ 642. picture
+ 643. pictures
+ 644. piece
+ 645. place
+ 646. plan
+ 647. plastic
+ 648. play
+ 649. player
+ 650. playing
+ 651. pleased
+ 652. plenty
+ 653. plug
+ 654. plugged
+ 655. plus
+ 656. pocket
+ 657. point
+ 658. poor
+ 659. por
+ 660. port
+ 661. posh
+ 662. possible
+ 663. power
+ 664. power button
+ 665. prepaid
+ 666. press
+ 667. pretty
+ 668. pretty good
+ 669. previous
+ 670. price
+ 671. probably
+ 672. problem
+ 673. problems
+ 674. process
+ 675. processor
+ 676. product
+ 677. producto
+ 678. products
+ 679. promised
+ 680. properly
+ 681. protection
+ 682. protector
+ 683. provider
+ 684. purchase
+ 685. purchased
+ 686. purchased phone
+ 687. purchasing
+ 688. quality
+ 689. quality phone
+ 690. que
+ 691. quick
+ 692. quickly
+ 693. quite
+ 694. radio
+ 695. ram
+ 696. randomly
+ 697. range
+ 698. rating
+ 699. read
+ 700. reading
+ 701. ready
+ 702. real
+ 703. really
+ 704. really good
+ 705. really like
+ 706. really nice
+ 707. reason
+ 708. reasonable
+ 709. reboot
+ 710. receive
+ 711. received
+ 712. received phone
+ 713. receiving
+ 714. recently
+ 715. reception
+ 716. recommend
+ 717. recommend phone
+ 718. recommended
+ 719. refund
+ 720. refurbished
+ 721. regret
+ 722. regular
+ 723. reliable
+ 724. remove
+ 725. repair
+ 726. replace
+ 727. replaced
+ 728. replacement
+ 729. research
+ 730. reset
+ 731. resolution
+ 732. response
+ 733. responsive
+ 734. restart
+ 735. return
+ 736. returned
+ 737. returning
+ 738. review
+ 739. reviews
+ 740. right
+ 741. run
+ 742. running
+ 743. runs
+ 744. s3
+ 745. s4
+ 746. s5
+ 747. s6
+ 748. s7
+ 749. said
+ 750. samsung
+ 751. samsung galaxy
+ 752. satisfied
+ 753. save
+ 754. saw
+ 755. say
+ 756. saying
+ 757. says
+ 758. scratch
+ 759. scratches
+ 760. screen
+ 761. screen protector
+ 762. screen size
+ 763. screens
+ 764. sd
+ 765. sd card
+ 766. se
+ 767. sealed
+ 768. search
+ 769. second
+ 770. seconds
+ 771. seen
+ 772. sell
+ 773. seller
+ 774. send
+ 775. sending
+ 776. sensor
+ 777. sent
+ 778. service
+ 779. set
+ 780. setting
+ 781. settings
+ 782. setup
+ 783. shape
+ 784. sharp
+ 785. shipped
+ 786. shipping
+ 787. short
+ 788. shows
+ 789. shut
+ 790. signal
+ 791. sim
+ 792. sim card
+ 793. sim cards
+ 794. similar
+ 795. simple
+ 796. simply
+ 797. sims
+ 798. single
+ 799. size
+ 800. sleek
+ 801. slightly
+ 802. slot
+ 803. slow
+ 804. small
+ 805. smaller
+ 806. smart
+ 807. smart phone
+ 808. smartphone
+ 809. smartphones
+ 810. smooth
+ 811. software
+ 812. sold
+ 813. solid
+ 814. son
+ 815. sony
+ 816. soon
+ 817. sound
+ 818. sound quality
+ 819. sounds
+ 820. space
+ 821. speaker
+ 822. speakers
+ 823. specs
+ 824. speed
+ 825. spend
+ 826. spent
+ 827. sprint
+ 828. standard
+ 829. star
+ 830. stars
+ 831. start
+ 832. started
+ 833. stated
+ 834. stay
+ 835. stock
+ 836. stolen
+ 837. stop
+ 838. stopped
+ 839. stopped working
+ 840. storage
+ 841. store
+ 842. straight
+ 843. straight talk
+ 844. stuck
+ 845. studio
+ 846. stuff
+ 847. sucks
+ 848. super
+ 849. support
+ 850. supposed
+ 851. sure
+ 852. surprised
+ 853. switch
+ 854. switched
+ 855. sync
+ 856. tablet
+ 857. taken
+ 858. takes
+ 859. taking
+ 860. talk
+ 861. talking
+ 862. tech
+ 863. technology
+ 864. telefono
+ 865. tell
+ 866. terrible
+ 867. test
+ 868. text
+ 869. texting
+ 870. texts
+ 871. thank
+ 872. thanks
+ 873. thats
+ 874. theres
+ 875. thing
+ 876. things
+ 877. think
+ 878. thinking
+ 879. thought
+ 880. time
+ 881. times
+ 882. tiny
+ 883. tmobile
+ 884. today
+ 885. told
+ 886. took
+ 887. total
+ 888. totally
+ 889. touch
+ 890. touch screen
+ 891. touchscreen
+ 892. transfer
+ 893. travel
+ 894. tried
+ 895. trouble
+ 896. true
+ 897. truly
+ 898. try
+ 899. trying
+ 900. turn
+ 901. turned
+ 902. turning
+ 903. turns
+ 904. twice
+ 905. type
+ 906. typing
+ 907. unable
+ 908. understand
+ 909. unfortunately
+ 910. unit
+ 911. unless
+ 912. unlock
+ 913. unlocked
+ 914. unlocked phone
+ 915. update
+ 916. updated
+ 917. updates
+ 918. upgrade
+ 919. upgraded
+ 920. usa
+ 921. usage
+ 922. usb
+ 923. use
+ 924. use phone
+ 925. used
+ 926. used phone
+ 927. useful
+ 928. useless
+ 929. user
+ 930. users
+ 931. uses
+ 932. using
+ 933. using phone
+ 934. usually
+ 935. value
+ 936. venezuela
+ 937. verizon
+ 938. version
+ 939. video
+ 940. videos
+ 941. voice
+ 942. volume
+ 943. wait
+ 944. waiting
+ 945. wall
+ 946. want
+ 947. wanted
+ 948. wants
+ 949. warranty
+ 950. wasnt
+ 951. waste
+ 952. waste money
+ 953. watch
+ 954. watching
+ 955. water
+ 956. way
+ 957. web
+ 958. website
+ 959. week
+ 960. weeks
+ 961. weight
+ 962. went
+ 963. white
+ 964. wife
+ 965. wifi
+ 966. windows
+ 967. windows phone
+ 968. wireless
+ 969. wish
+ 970. wonderful
+ 971. wont
+ 972. work
+ 973. worked
+ 974. worked great
+ 975. working
+ 976. works
+ 977. works fine
+ 978. works good
+ 979. works great
+ 980. works just
+ 981. works like
+ 982. works perfect
+ 983. works perfectly
+ 984. world
+ 985. worried
+ 986. worse
+ 987. worst
+ 988. worth
+ 989. worth money
+ 990. wouldnt
+ 991. write
+ 992. wrong
+ 993. xperia
+ 994. year
+ 995. year old
+ 996. years
+ 997. yes
+ 998. youll
+ 999. youre
+1000. youtube
